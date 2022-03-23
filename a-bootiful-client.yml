@@ -3,4 +3,4 @@ server:
 message: Consumer configuration server is alive!
 quarkus:
     http:
-        port: ${PORT:9921}
+        port: ${PORT:9922}
